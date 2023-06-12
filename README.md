@@ -38,11 +38,11 @@
 
 <div align="center">
   
-  [![Counter](https://visitor-badge.laobi.icu/badge?page_id=Extravi.Extravi)](https://github.com/Extravi)
-  ![GitHub User's stars](https://img.shields.io/github/stars/Extravi?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
-  [![Downloads](https://img.shields.io/github/downloads/Extravi/Installer/total)](https://github.com/Extravi/Installer/releases)
+  [![Counter](https://visitor-badge.laobi.icu/badge?page_id=vsd-y.vsd-y)](https://github.com/vsd-y)
+  ![GitHub User's stars](https://img.shields.io/github/stars/vsd-y?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
+  [![Downloads](https://img.shields.io/github/downloads/vsd-y/Installer/total)](https://github.com/vsd-y/Installer/releases)
   
-  ![snake gif](https://github.com/Extravi/Extravi/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/vsd-y/vsd-y/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 <!--
