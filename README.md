@@ -42,7 +42,7 @@
   ![GitHub User's stars](https://img.shields.io/github/stars/vsd-y?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
   [![Downloads](https://img.shields.io/github/downloads/vsd-y/Installer/total)](https://github.com/vsd-y/Installer/releases)
   
-  ![snake gif](https://github.com/vsd-y/vsd-y/blob/output/github-user-contribution.svg)
+  ![snake gif](https://github.com/vsd-y/vsd-y/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 <!--
